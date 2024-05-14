@@ -1,0 +1,27 @@
+div {
+    border: 1px;;
+    color: blue;
+    font-size:15px;
+}
+table{
+    color: #dc091e;
+    font-size: 15px;
+}
+ul{
+    list-style-type: none;background-color: blueviolet;margin: 0;
+}
+li{
+    background-color: #5D0E41
+}
+ol{
+    background-color: aqua;margin: 0;
+}
+#renk{
+    background-color: black;
+}
+.type{
+    font-size: 25px;background-color: #5D0E41;
+}
+*{
+    font-size: 20px;color: #240A34;
+}
